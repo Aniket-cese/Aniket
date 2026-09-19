@@ -1,0 +1,6 @@
+{
+  "name": "Smritimitra",
+  "description": "An AI-powered cognitive game companion for people living with dementia, and the families who care for them.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
